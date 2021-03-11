@@ -83,3 +83,10 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+# Android Studio Configurations
+.DS_Store
+/local.properties
+/.idea
+/build
+/captures
